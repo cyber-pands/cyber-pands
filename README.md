@@ -1,6 +1,6 @@
-# 🛡️ Siddharth Pandya | Cybersecurity Defender & Threat Hunter 🔥
+# 🛡️ Siddharth Pandya | Cybersecurity Enthusiasts 🔥
 
-![Cybersecurity Banner](#) *(Add a cool cybersecurity-themed banner here!)*
+![[Cybersecurity Banner](https://drive.google.com/file/d/1MiUWYnua6Qeok121rwzbJ9j66uDP506R/view?usp=share_link)]
 
 Welcome to my digital fortress! 🏰 I'm a **Certified Security Analytics Professional (CSAP)** with a mission to **hunt threats, fortify systems, and defend the cyber realm.** Whether it's **penetration testing, SOC operations, or automating security workflows**, I thrive in the battlefield of cybersecurity.
 
@@ -8,7 +8,7 @@ Welcome to my digital fortress! 🏰 I'm a **Certified Security Analytics Profes
 
 ## 🔥 About Me
 - 🛡️ **Cyber Guardian** with **Security+**, **CySA+**, and **CC (ISC2)** certifications.
-- 🌐 **Threat Hunter & SOC Specialist**, experienced in **SIEM (Splunk, QRadar), IDS/IPS, and incident response.**
+- 🌐 **Threat Hunter & SOC Specialist**, experienced in **SIEM, IDS/IPS, and incident response.**
 - 🕵️‍♂️ **Bug Bounty Hunter & Ethical Hacker**, breaking into systems (legally!) to fortify defenses.
 - ⚙️ **Automation Enthusiast**, scripting security solutions to combat cyber threats.
 - 🎥 **Creative Mind**, diving into **animation, 3D video making, and VFX** when not hunting threats.
@@ -30,18 +30,10 @@ Welcome to my digital fortress! 🏰 I'm a **Certified Security Analytics Profes
 - 🏹 **Mission**: Fortify Linux systems with automated threat monitoring.
 - 🛠️ **Built With**: Python, Linux Security Modules, SIEM Integration.
 
-### 🔑 Mutual-CHAP - Advanced Secure Authentication 🚀
-- 🏹 **Mission**: Protect user identities with mutual authentication and encryption.
-- 🛠️ **Built With**: Cryptography, IAM, Secure Communication Protocols.
-
-### 🔎 Auto-Recon - Network Reconnaissance & OSINT Tool 🔍
-- 🏹 **Mission**: Enhance security assessments with automated reconnaissance.
-- 🛠️ **Built With**: Python, Nmap, OSINT Tools.
-
 ---
 
 ## ⚔️ Cyber Arsenal (Technical Skills)
-- 🛡️ **Threat Detection & Incident Response**: SIEM (Splunk, QRadar), Threat Intelligence, SOC Operations.
+- 🛡️ **Threat Detection & Incident Response**: SIEM, Threat Intelligence, SOC Operations.
 - 🔥 **Network Security & Monitoring**: IDS/IPS (Snort, Zeek), Log Analysis.
 - 🌐 **Web Security & Pentesting**: Burp Suite, Web App Testing, OWASP Top 10.
 - 🖥️ **Programming & Scripting**: Python (Cybersecurity Tools, Web Scraping, Automation).
