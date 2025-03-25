@@ -1,6 +1,6 @@
 # 🛡️ Siddharth Pandya | Cybersecurity Enthusiasts 🔥
 
-![Cybersecurity Banner](https://drive.google.com/file/d/1MiUWYnua6Qeok121rwzbJ9j66uDP506R/view?usp=share_link)
+![Banner](https://drive.google.com/uc?export=view&id=1MiUWYnua6Qeok121rwzbJ9j66uDP506R)
 
 Welcome to my digital fortress! 🏰 I'm a **Certified Security Analytics Professional (CSAP)** with a mission to **hunt threats, fortify systems, and defend the cyber realm.** Whether it's **penetration testing, SOC operations, or automating security workflows**, I thrive in the battlefield of cybersecurity.
 
