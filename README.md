@@ -1,63 +1,71 @@
-```markdown
-# 🛡️ Welcome to My Cyber Lair! 🔥
+# 🛡️ Siddharth Pandya | Cybersecurity Defender & Threat Hunter 🔥
 
-```bash
-$ whoami
-👋 Hey there! I'm Siddharth (a.k.a. [Your cyber-pands])
-💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker | 🔥 Automation & AI Learner
-```
+![Cybersecurity Banner](#) *(Add a cool cybersecurity-themed banner here!)*
+
+Welcome to my digital fortress! 🏰 I'm a **Certified Security Analytics Professional (CSAP)** with a mission to **hunt threats, fortify systems, and defend the cyber realm.** Whether it's **penetration testing, SOC operations, or automating security workflows**, I thrive in the battlefield of cybersecurity.
 
 ---
 
-## 🚀 About Me
-- 🕵️‍♂️ Passionate about cybersecurity, automation, and AI-driven security.
-- 🐍 Skilled in **Python**, **JavaScript**, and **Bash Scripting**.
-- 🏴‍☠️ Bug Bounty Hunter & Capture The Flag (CTF) Competitor.
-- ⚡ Exploring **Threat Intelligence & AI-based Security**.
-- 🔧 Love breaking things apart & making them more secure.
+## 🔥 About Me
+- 🛡️ **Cyber Guardian** with **Security+**, **CySA+**, and **CC (ISC2)** certifications.
+- 🌐 **Threat Hunter & SOC Specialist**, experienced in **SIEM (Splunk, QRadar), IDS/IPS, and incident response.**
+- 🕵️‍♂️ **Bug Bounty Hunter & Ethical Hacker**, breaking into systems (legally!) to fortify defenses.
+- ⚙️ **Automation Enthusiast**, scripting security solutions to combat cyber threats.
+- 🎥 **Creative Mind**, diving into **animation, 3D video making, and VFX** when not hunting threats.
 
 ---
 
-## 🛠️ My Cyber Arsenal
+## 🏴‍☠️ Featured Projects
+### 🛡️ PCAPThreatHunter - Network Threat Detection Toolkit ⚡
+**💾 Decode | 🔍 Detect | 🚨 Defend**
+- 🏹 **Purpose**: Extracts and analyzes PCAP files to uncover hidden cyber threats.
+- ⚙️ **Features**:
+  - **Deciphers network traffic** using Zeek.
+  - **Correlates logs with VirusTotal API** and malware databases.
+  - **Transforms analyzed data into structured CSV logs**.
+  - **Triggers alerts on suspicious activity**.
+- 🛠️ **Tech Stack**: Python, Zeek, VirusTotal API.
 
-🖥️ **Programming & Scripting:** Python | JavaScript | Bash  
-🔍 **Offensive Security:** Burp Suite | Nmap | Wireshark | Metasploit | Snort  
-🛡️ **Defensive Security:** Zeek | Splunk | OSINT Tools | SIEM Platforms  
-🖥️ **Operating Systems:** Kali Linux | Parrot OS | Windows (WSL)  
-🎯 **Hacking Labs:** TryHackMe (Top %) | HackTheBox (Pwned Labs!)  
+### 🔄 SecureGuard - Automated Threat Detection & Endpoint Security 🛠️
+- 🏹 **Mission**: Fortify Linux systems with automated threat monitoring.
+- 🛠️ **Built With**: Python, Linux Security Modules, SIEM Integration.
 
----
+### 🔑 Mutual-CHAP - Advanced Secure Authentication 🚀
+- 🏹 **Mission**: Protect user identities with mutual authentication and encryption.
+- 🛠️ **Built With**: Cryptography, IAM, Secure Communication Protocols.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Featured Projects
-
-🚀 **[Automated Threat Detection Tool](https://github.com/yourgithubusername/security-tool)** – AI-powered tool for real-time security analysis.  
-🛡️ **[Burp Suite Extensions](https://github.com/yourgithubusername/burp-extensions)** – Custom scripts for web security testing.  
-📝 **[CTF Writeups](https://github.com/yourgithubusername/CTF-Writeups)** – Documenting my journey through cybersecurity challenges.  
-
----
-
-## 🕵️‍♂️ Cybersecurity Quotes
-> "The quieter you become, the more you can hear." – Kali Linux
-
-> "Security is not a product, but a process." – Bruce Schneier
+### 🔎 Auto-Recon - Network Reconnaissance & OSINT Tool 🔍
+- 🏹 **Mission**: Enhance security assessments with automated reconnaissance.
+- 🛠️ **Built With**: Python, Nmap, OSINT Tools.
 
 ---
 
-## 🤝 Let's Connect!
-
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourtwitter](https://twitter.com/yourtwitter)  
-🎮 **Discord:** `yourdiscord#1234`  
-📧 **Email:** your@email.com  
-🏴‍☠️ **CTF Profiles:** [HackTheBox](https://www.hackthebox.com) | [TryHackMe](https://tryhackme.com)  
+## ⚔️ Cyber Arsenal (Technical Skills)
+- 🛡️ **Threat Detection & Incident Response**: SIEM (Splunk, QRadar), Threat Intelligence, SOC Operations.
+- 🔥 **Network Security & Monitoring**: IDS/IPS (Snort, Zeek), Log Analysis.
+- 🌐 **Web Security & Pentesting**: Burp Suite, Web App Testing, OWASP Top 10.
+- 🖥️ **Programming & Scripting**: Python (Cybersecurity Tools, Web Scraping, Automation).
+- 🔐 **Identity & Access Management (IAM)**: Secure Authentication, Encryption.
 
 ---
 
-🔥 **Keep hacking, keep learning, keep securing!** 🚀
+## 🎓 Knowledge Vault (Education)
+- 🎓 **Master of Science in Cybersecurity** - Lancaster University *(Merit, 2022)*
+- 🎓 **Bachelor of Engineering in Computers** - Pillai College of Engineering *(Merit, 2020)*
+
+---
+
+## 🏆 Certifications (Battle Honors)
+- 🔰 **CySA+ (Dec 2024)** - CompTIA
+- 🔰 **Security+ (Sept 2024)** - CompTIA
+- 🔰 **Certified in Cybersecurity (CC) (Jan 2023)** - ISC2
+
+---
+
+## 📡 Secure Communication (Connect With Me)
+- 🔗 [LinkedIn](#)
+- 🏆 [TryHackMe](#)
+- 🐦 [Twitter](#)
+- 🌐 [Portfolio Website](#) *(Coming Soon!)*
+
+**🚀 Let’s defend the cyber world together!** 🛡️
